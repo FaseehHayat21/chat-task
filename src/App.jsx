@@ -1,12 +1,11 @@
 import { useState } from 'react'
-import Chat from './component/chat,'
+import Chat from './component/Chat'
 
 function App() {
 
 
   return (
     <>
-     
      <Chat/>
     </>
   )
